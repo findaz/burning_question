@@ -4,4 +4,4 @@ Predicting burned area in the forest fires dataset, first presented by Paulo Cor
 
 I was asked to spend a few hours exploring this problem by a persepctive employer. This is a difficalt problem, a robust solution should take more than a few hours!
 
-The repository contains the notebook I submitted to the employer, as well as a basic set of models, the dataset and the original Cortez and Morais paper.
+The repository contains the notebook I submitted to the employer, the dataset, the pickled "best" model, a script to predict burned area from a fire instance and the original Cortez and Morais paper.
